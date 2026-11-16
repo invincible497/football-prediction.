@@ -15,7 +15,7 @@ ENV/
 data/*.csv
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
 
 # OS generated
 .DS_Store
